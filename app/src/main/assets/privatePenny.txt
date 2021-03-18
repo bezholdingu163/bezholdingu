@@ -1,0 +1,1 @@
+{"info":"Čárové kódy dodavatelů řetězce Penny","firmy":[{"kod":"438886046795","produkt":"Gouda 48%, 450g","vyrobce":"FCC, Německo"}]}
